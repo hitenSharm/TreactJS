@@ -5,7 +5,7 @@
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">You can make componenets in a similar manner to ReactJS (check app.js)</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">You can only add components, no feature of removing or updation (maybe later)</li>
-<li class="has-line-data" data-line-start="8" data-line-end="10">Uses Fiber Tree data structure to render componentes for efficiency</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">Uses Fiber Tree data structure to render components for efficiency</li>
 </ul>
 <h2 class="code-line" data-line-start=10 data-line-end=11 ><a id="Usage_procedure_10"></a>Usage procedure</h2>
 <p class="has-line-data" data-line-start="11" data-line-end="12">Make sure to include these in every page. They tell babel to use Treact instead of React</p>
