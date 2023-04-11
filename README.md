@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="TreactJS_0"></a>TreactJS</h1>
-<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_A_javscript_framework_which_looks_almost_like_ReactJS__1"></a><em>A javscript framework which looks almost like ReactJS</em></h2>
+<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_A_javscript_framework_which_looks_almost_like_ReactJS__1"></a><em>A javscript library which looks almost like ReactJS</em></h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><img src="https://user-images.githubusercontent.com/56029311/125462878-2d1f36a0-cfce-4566-8ca4-acec923c4280.png" alt="image"></p>
 <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Features_5"></a>Features</h2>
 <ul>
